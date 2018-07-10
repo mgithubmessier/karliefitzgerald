@@ -1,3 +1,5 @@
-.p20 {
+.body {
+    margin: 20px;
     padding: 20px;
+    background-color: rgba(255, 69, 0, 0.75);
 }
