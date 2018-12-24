@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import { Navbar } from '../navbar/navbar';
-import { Body } from '../body/body';
-import { Background } from '../background/background';
+import { Navbar } from './components/navbar/navbar';
+import { Body } from './components/body/body';
+import { Background } from './components/background/background';
 import './app.css';
 export class App extends Component {
     constructor(props) {
